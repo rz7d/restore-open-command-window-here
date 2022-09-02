@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shell\cmd]
+"HideBasedOnVelocityId"=dword:00639bc8
+"ShowBasedOnVelocityId"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shell\cmd]
+"HideBasedOnVelocityId"=dword:00639bc8
+"ShowBasedOnVelocityId"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\cmd]
+"HideBasedOnVelocityId"=dword:00639bc8
+"ShowBasedOnVelocityId"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shell\PowerShell]
+"HideBasedOnVelocityId"=dword:00000000
+"ShowBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shell\PowerShell]
+"HideBasedOnVelocityId"=dword:00000000
+"ShowBasedOnVelocityId"=dword:00639bc8
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\PowerShell]
+"HideBasedOnVelocityId"=dword:00000000
+"ShowBasedOnVelocityId"=dword:00639bc8
